@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GuessNumberGame</string>
+    <string name="guess_the_number_game">Guess the Number Game</string>
+    <string name="select_the_maximum_number">Select the maximum number:</string>
+    <string name="_10">10</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="todo">TODO</string>
+    <string name="_1_10">1-10</string>
+    <string name="_1_50">1-50</string>
+    <string name="_1_100">1-100</string>
+    <string name="hard">*HARD*</string>
+    <string name="easy">*EASY*</string>
+    <string name="medium">*MEDIUM*</string>
+    <string name="textview">TextView</string>
+    <string name="can_you_guess_what_it_is">Can you guess what it is?</string>
+    <string name="check_number">Check number</string>
+    <string name="message">Message:</string>
+    <string name="generate_new_number">Generate new number</string>
+    <string name="TODO">TODO</string>
+    <string name="enter_the_number">Enter the Number</string>
+    <string name="guess">Guess</string>
+</resources>
